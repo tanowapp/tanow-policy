@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Account Deletion Policy – Tanow App</title>
+</head>
+<body>
+  <h1>Tanow App – Account and Data Deletion Policy</h1>
+
+  <h2>How to request account deletion</h2>
+  <p>Send an email to <strong>tanow.app@gmail.com</strong></p>
+  <ul>
+    <li>Subject: <em>Request to delete Tanow account</em></li>
+    <li>Include your user ID or login email</li>
+  </ul>
+
+  <h2>What data will be deleted?</h2>
+  <p>Your account and all data on our servers will be permanently deleted:</p>
+  <ul>
+    <li>Task lists</li>
+    <li>Reminders</li>
+    <li>Recurrence settings</li>
+    <li>Preferences</li>
+  </ul>
+
+  <h2>Local data on your device</h2>
+  <p>Local data will be deleted when you uninstall the app from your device.</p>
+
+  <h2>Deletion timeline</h2>
+  <p>We process deletion requests within 7 business days.</p>
+</body>
+</html>
